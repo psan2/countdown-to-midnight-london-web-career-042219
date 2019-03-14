@@ -7,5 +7,3 @@ def countdown(remaining_seconds)
   end
   "HAPPY NEW YEAR!"
 end
-
-countdown(100)
